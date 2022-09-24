@@ -30,7 +30,7 @@ li {
   width: 100px;
   height: 100px;
   background: #efbc42;
-  border-radius: 5px;
+  border-radius: 6px;
   text-align: center;
   vertical-align: middle;
   line-height: 150px;
